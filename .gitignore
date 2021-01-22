@@ -1,0 +1,43 @@
+# MacOS
+.DS_Store
+._*
+
+# vscode files
+.vscode
+
+# JetBrains IDE
+.idea/
+*.iml
+
+# go test binaries when build with `go test -c`
+*.test
+
+# make
+/.make/
+
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# emacs
+*~
+\#*\#
+.\#*
+
+# LiteIDE
+*.out
+
+# eclipse
+.project
+.settings/**
+.classpath
+
+# binaries for programs and plugins
+*.so
+*.dll
+*.dylib
+*.exe
+*.exe~
