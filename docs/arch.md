@@ -1,10 +1,10 @@
-# AIOT Architecture
+# AIoT Architecture
 
-AIOT architecture based on Kubernetes
+AIoT architecture based on Kubernetes
 
-## AIOT Station
+## AIoT Station
 
-The dashboard of AIOT
+The dashboard of AIoT
 
 ## KubeThings
 

@@ -1,8 +1,8 @@
 English | [Deutsche](./readme/deutsche.md) | [русский](./readme/русский.md) | [中文](./readme/中文.md)
 
-# AIOT
+# AIoT
 
-AIOT: Amazing Intelligence Of Things, the cornerstone of the fourth industrial revolution!
+AIoT: Amazing Intelligence Of Things, the cornerstone of the fourth industrial revolution!
 
 Official website: https://aiot.hk
 
